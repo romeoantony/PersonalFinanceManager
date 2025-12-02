@@ -31,7 +31,7 @@ A comprehensive Personal Finance Manager application built with WPF and .NET, de
 
 1.  Clone the repository:
     ```bash
-    git clone <repository-url>
+    git clone https://github.com/romeoantony/Personal-Finance-Manager.git
     ```
 2.  Navigate to the project directory.
 3.  Open the solution file (`.sln`) in Visual Studio.
